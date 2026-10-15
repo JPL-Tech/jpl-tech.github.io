@@ -3,3 +3,4 @@ Allow: /
 Sitemap: https://jpl-tech.github.io/cannabis/sitemap.xml
 Sitemap: https://jpl-tech.github.io/loja/sitemap.xml
 Sitemap: https://jpl-tech.github.io/reviews/sitemap.xml
+Sitemap: https://jpl-tech.github.io/shop/sitemap.xml
